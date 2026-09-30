@@ -32,4 +32,4 @@ I build workflow automations, CRM systems, and API integrations that help busine
 
 ---
 
-📫 **Connect with me:** [LinkedIn](PASTE-YOUR-LINKEDIN-LINK) | 🌐 [Website](https://www.unitzero.tech/) | 📧 YOUR-EMAIL
+📫 **Connect with me:** [LinkedIn](PASTE-YOUR-www.linkedin.com/in/muhammad-danish-386018375) |  | 📧 YOUR-EMAIL- m.danimalik1234@gmail.com
