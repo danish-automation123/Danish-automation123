@@ -32,4 +32,3 @@ Projects coming soon. Check back shortly!
 ---
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/muhammad-danish-386018375) | 🌐 [Website](https://www.unitzero.tech/) | 📧 [m.danimalik1234@gmail.com](mailto:m.danimalik1234@gmail.com)
-📫 **Connect with me:** [LinkedIn](PASTE-YOUR-www.linkedin.com/in/muhammad-danish-386018375) |  | 📧 YOUR-EMAIL- m.danimalik1234@gmail.com
