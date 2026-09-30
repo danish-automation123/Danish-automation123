@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdanimalik1234-byte/mdanimalik1234-byte/main/Muhammad%20Danish.jpeg" width="150" alt="Muhammad Danish">
+  <img src="https://raw.githubusercontent.com/danish-automation123/danish-automation123/main/Muhammad%20Danish.jpeg" width="150" alt="Muhammad Danish">
 </p>
 <h1 align="center">👋 Hi, I'm Muhammad Danish!</h1>
 
