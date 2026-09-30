@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Danish!
 
-<!--
-**mdanimalik1234-byte/mdanimalik1234-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ AI Automation Specialist | n8n & GoHighLevel Expert
 
-Here are some ideas to get you started:
+I build workflow automations, CRM systems, and API integrations that help businesses save time, capture more leads, and run on autopilot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Automation** | n8n, Webhooks, REST APIs |
+| **CRM** | GoHighLevel (GHL), Google Sheets |
+| **AI & Voice** | OpenAI API, VAPI |
+
+---
+
+### 🚀 What I Do
+
+- 🔗 Connect apps and CRMs so data moves automatically
+- 📞 Lead capture, follow-up, and appointment booking automation
+- 🤖 AI chatbots and voice agents for businesses
+- 📊 Automated reports and client systems
+
+---
+
+### 📂 Featured Projects
+
+- **Project 1 name** — one line about what it does (link will be added)
+- **Project 2 name** — one line about what it does (link will be added)
+
+---
+
+📫 **Connect with me:** [LinkedIn](PASTE-YOUR-LINKEDIN-LINK) | 🌐 [Website](https://www.unitzero.tech/) | 📧 YOUR-EMAIL
