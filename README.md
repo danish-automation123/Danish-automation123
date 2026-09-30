@@ -10,6 +10,16 @@
 
 ---
 
+### 🛠️ Core Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Automation** | n8n, Webhooks, REST APIs |
+| **CRM** | GoHighLevel (GHL), Google Sheets |
+| **AI & Voice** | OpenAI API, VAPI |
+
+---
+
 ### 🚀 What I Do
 
 - 🔗 Connect apps and CRMs so data moves automatically
@@ -19,9 +29,13 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured UNITZERO Projects
 
-Projects coming soon. Check back shortly!
+- ⚡ **[n8n Lead Identity Resolution](https://github.com/ArsalanNoor90/n8n-ghl-lead-identity-resolution)** — Removes duplicate leads across channels and routes each contact into GoHighLevel.
+- 💸 **[Expense Management Workflow](https://github.com/ArsalanNoor90/Expense-Management-n8n-Workflow)** — Automated receipt processing, duplicate screening, and approval notifications.
+- 🎯 **[Job Application Screening Workflow](https://github.com/ArsalanNoor90/Job-Application-Screening-n8n-Workflow)** — Screens candidates from Google Forms and sends automatic emails.
+- 📊 **[Business Performance ETL & Anomaly Reporting](https://github.com/ArsalanNoor90/Business-Performance-ETL-Anomaly-Reporting-Engine-n8n-Workflow)** — Pulls data from GHL, Google Ads and call tracking, calculates KPIs, and flags anomalies.
+- 🛡️ **[Retry & Dead-Letter System](https://github.com/ArsalanNoor90/Central-Reliability-Retry-and-Dead-Letter-System)** — Central error handling with automatic retries for n8n workflows.
 
 ---
 
