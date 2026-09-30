@@ -27,9 +27,14 @@ I build workflow automations, CRM systems, and API integrations that help busine
 
 ### 📂 Featured Projects
 
-- **Project 1 name** — one line about what it does (link will be added)
-- **Project 2 name** — one line about what it does (link will be added)
+#### ⚡ [Lead Follow-up Automation](https://github.com/mdanimalik1234-byte/lead-followup-automation)
+Captures leads and replies instantly using n8n and GoHighLevel.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdanimalik1234-byte/lead-followup-automation/main/images/workflow-overview.png" width="600">
+  <br>
+  <em>Workflow overview</em>
+</p>
 ---
 
 📫 **Connect with me:** [LinkedIn](PASTE-YOUR-www.linkedin.com/in/muhammad-danish-386018375) |  | 📧 YOUR-EMAIL- m.danimalik1234@gmail.com
