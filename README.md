@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mdanimalik1234-byte/mdanimalik1234-byte/main/profile.jpg" width="150" alt="Muhammad Danish">
 </p>
-
 <h1 align="center">👋 Hi, I'm Muhammad Danish!</h1>
 
 <h3 align="center">⚡ AI Automation Specialist | n8n & GoHighLevel Expert</h3>
