@@ -30,7 +30,8 @@
 
 ### 📂 Featured Projects
 
-Workflow case studies coming soon. Check back shortly!
+#### ⚡ [Lead & Appointment Automation (GoHighLevel)](https://github.com/danish-automation123/ghl-lead-appointment-automation)
+Two GoHighLevel workflows for UNITZERO that capture leads from LinkedIn and the website and handle appointment bookings automatically.
 
 ---
 
